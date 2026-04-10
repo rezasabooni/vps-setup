@@ -2,7 +2,7 @@
 # =============================================================================
 # VPS Automated Setup Script
 # Version: 4.0 (April 2026)
-# Author: Reza Sabooni — https://github.com/YOUR_USERNAME/vps-setup
+# Author: Reza Sabooni — https://github.com/rezasabooni/vps-setup
 #
 # Usage:  sudo bash vps-setup.sh [--dry-run]
 #
